@@ -58,3 +58,9 @@ h1{
     background-repeat: no-repeat;
     background-position: right bottom;
 }
+
+.recipe{
+    text-align: center;
+    padding: 20px;
+    margin: 0 400px;
+}
