@@ -8,6 +8,9 @@ body{
 h1{
     font-size:70px;
 }
+h2{
+    font-size: 40px;
+}
 .flexo{
     display: flex;
 }
@@ -62,5 +65,33 @@ h1{
 .recipe{
     text-align: center;
     padding: 20px;
-    margin: 0 400px;
+    margin: 50px 400px;
 }
+.food{
+    margin: 0 5%;
+}
+.detail{
+    width: 30%;
+    box-shadow: 10px 5px 20px gray;
+    border-radius: 20px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 100px;
+    padding: 10px 20px;
+    color: rgb(63, 57, 57);
+}
+.detail img{
+    width: 80%;
+    margin-top: 30px;
+    border-radius: 20px;
+    padding-left: 8%;
+}
+#num-2 img{
+    height: 35%;
+}
+.text{
+    text-align: center;
+}
+
+
+
