@@ -1,0 +1,60 @@
+body{
+    margin: 0;
+    font-family: 'Inconsolata', monospace;
+    color: rgb(6, 56, 78);
+    font-weight: 700;
+    
+}
+h1{
+    font-size:70px;
+}
+.flexo{
+    display: flex;
+}
+.healthy{
+    color: rgb(194, 65, 18);
+}
+.heading-lady{
+    margin-top: 20px;
+    background-image:url(images/exp-bg.png) ;
+    background-repeat: no-repeat;
+    background-position:top left;
+}
+.header{
+    width: 50%;
+    padding-left: 6%;
+    margin-top: 30px;
+}
+.header img{
+    width: 100%;
+}
+.gape{
+    margin-top: 100px;
+}
+.button{
+    text-decoration: none;
+    color: black;
+    background-image: linear-gradient(coral,yellow);
+    padding: 20px 40px;
+    border-radius: 25px;
+}
+.advisor{
+    width: 50%;
+    padding-left: 6%;
+    margin-top: 100px;
+}
+.advisor img{
+    width: 100%;
+}
+.ab-color{
+    color: black;
+}
+#about{
+    margin-top: 200px;
+    padding-right: 8%;
+}
+.about-lady{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+}
